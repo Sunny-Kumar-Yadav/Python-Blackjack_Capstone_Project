@@ -1,7 +1,3 @@
-# Download and read this flow chart: 
-   # https://drive.google.com/uc?export=download&id=1rDkiHCrhaf9eX7u7yjM1qwSuyEk-rPnt
-
-
 ############### Our Blackjack House Rules #####################
 ## The deck is unlimited in size. 
 ## There are no jokers. 
